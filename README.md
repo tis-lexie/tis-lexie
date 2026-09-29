@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Lexie Schmitz
 
-<!--
-**tis-lexie/tis-lexie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an aspiring front-end developer. I'm majoring in Information Technology with a minor in Secure Computing and Networks
 
-Here are some ideas to get you started:
+## Tech Stack
+**Languages:** JavaScript, Python, C, Java, SQL, HTML, CSS  
+**Frontend:** React, Tailwind CSS  
+**Backend:** FastAPI  
+**Databases:** MySQL
+**Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/alexandria-schmitz-18a2372a6/
